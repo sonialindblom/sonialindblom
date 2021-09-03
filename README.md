@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sonialindblom
 - 👀 I’m interested in nature, sustainability, librarianship, 
-- 🌱 I’m currently learning html, javascript, ux design
+- 🌱 I’m currently learning html, javascript, ux design, R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sonialindblom(at)gmail.com
 
